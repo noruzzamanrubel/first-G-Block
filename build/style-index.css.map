@@ -1,1 +1,0 @@
-{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACI;EACA;EACA;AACJ,C","sources":["webpack://firstblock/./src/style.scss"],"sourcesContent":[".wp-block-test-firstblock {\r\n    background-color: red;\r\n    padding: 5px;\r\n    border-radius: 5px;\r\n}"],"names":[],"sourceRoot":""}
